@@ -6,11 +6,9 @@
 
 - This demo shows how to use `External Surface`. Please refer to the [Scene](https://github.com/picoxr/External-Surface-Demo/blob/main/Assets/PicoMobileSDK/Pvr_UnitySDK/Scenes/Examples/OverlayExternalSurface.unity) and [Script](https://github.com/picoxr/External-Surface-Demo/blob/main/Assets/PicoMobileSDK/Pvr_UnitySDK/Scenes/Examples/OverlayExternalSurface/OverlayExternalSurfaceDemo.cs).
 
-- If you want to experience the [Test.apk](https://github.com/picoxr/External-Surface-Demo/blob/main/Test.apk), you need to configure as shown:
+- If you want to experience the [Test.apk](https://github.com/picoxr/External-Surface-Demo/blob/main/Test.apk), you need to push a mp4 file named `test360.mp4` to the `device root directory`.
  
   <img src="./ReadMeScreenshot/1.png"  width = "600" height = "600"/>
-  
-
 
   <img src="./ReadMeScreenshot/2.png"  width = "600" />
 
