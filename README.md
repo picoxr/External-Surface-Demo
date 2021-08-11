@@ -8,9 +8,11 @@
 
 - If you want to experience the [Test.apk](https://github.com/picoxr/External-Surface-Demo/blob/main/Test.apk), you need to configure as shown as below:
   
-  <img src="./ReadMeScreenshot/1.png"  width = "600"/>
+  <img src="./ReadMeScreenshot/1.png"  width = "600" height = "800"/>
+  
+- 
 
-  <img src="./ReadMeScreenshot/2.png"  width = "600" />
+  <img src="./ReadMeScreenshot/2.png"  width = "600" height = "800"/>
 
 
 - Note: This Demo is implemented with `Unity 2019.4.23`, and higher Unity versions are recommended.
