@@ -12,7 +12,7 @@
   
 
 
-  <img src="./ReadMeScreenshot/2.png"  width = "600" height = "600"/>
+  <img src="./ReadMeScreenshot/2.png"  width = "600" />
 
 
 - Note: This Demo is implemented with `Unity 2019.4.23`, and higher Unity versions are recommended.
